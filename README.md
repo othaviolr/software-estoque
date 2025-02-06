@@ -41,7 +41,7 @@ Excluir produtos através do ID exibido na listagem.
 5- Sair  
 
 Escolha uma opção: 1  
-[ID: 1] Produto: Caneta Azul | Quantidade: 50  
-[ID: 2] Produto: Caderno | Quantidade: 20  
+[ID: 1] Produto: Guitarra LesPaul | Quantidade: 10  
+[ID: 2] Produto: Amplificador | Quantidade: 20  
 
 Pressione Enter para voltar ao menu principal.
