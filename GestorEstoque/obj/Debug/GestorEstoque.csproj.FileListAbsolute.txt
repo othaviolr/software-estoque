@@ -1,0 +1,7 @@
+E:\Estudos CSHARP\Projetos\GestorEstoque\GestorEstoque\GestorEstoque\bin\Debug\GestorEstoque.exe.config
+E:\Estudos CSHARP\Projetos\GestorEstoque\GestorEstoque\GestorEstoque\bin\Debug\GestorEstoque.exe
+E:\Estudos CSHARP\Projetos\GestorEstoque\GestorEstoque\GestorEstoque\bin\Debug\GestorEstoque.pdb
+E:\Estudos CSHARP\Projetos\GestorEstoque\GestorEstoque\GestorEstoque\obj\Debug\GestorEstoque.csproj.AssemblyReference.cache
+E:\Estudos CSHARP\Projetos\GestorEstoque\GestorEstoque\GestorEstoque\obj\Debug\GestorEstoque.csproj.CoreCompileInputs.cache
+E:\Estudos CSHARP\Projetos\GestorEstoque\GestorEstoque\GestorEstoque\obj\Debug\GestorEstoque.exe
+E:\Estudos CSHARP\Projetos\GestorEstoque\GestorEstoque\GestorEstoque\obj\Debug\GestorEstoque.pdb

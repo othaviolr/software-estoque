@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Estudos CSHARP\\Projetos\\GestorEstoque\\GestorEstoque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DA14F-7017-4BA4-876F-56E63CBAA5F6}|GestorEstoque\\GestorEstoque.csproj|e:\\estudos csharp\\projetos\\gestorestoque\\gestorestoque\\gestorestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3DA14F-7017-4BA4-876F-56E63CBAA5F6}|GestorEstoque\\GestorEstoque.csproj|solutionrelative:gestorestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DA14F-7017-4BA4-876F-56E63CBAA5F6}|GestorEstoque\\GestorEstoque.csproj|E:\\Estudos CSHARP\\Projetos\\GestorEstoque\\GestorEstoque\\gestorestoque\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3DA14F-7017-4BA4-876F-56E63CBAA5F6}|GestorEstoque\\GestorEstoque.csproj|solutionrelative:gestorestoque\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DA14F-7017-4BA4-876F-56E63CBAA5F6}|GestorEstoque\\GestorEstoque.csproj|E:\\Estudos CSHARP\\Projetos\\GestorEstoque\\GestorEstoque\\gestorestoque\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3DA14F-7017-4BA4-876F-56E63CBAA5F6}|GestorEstoque\\GestorEstoque.csproj|solutionrelative:gestorestoque\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DA14F-7017-4BA4-876F-56E63CBAA5F6}|GestorEstoque\\GestorEstoque.csproj|E:\\Estudos CSHARP\\Projetos\\GestorEstoque\\GestorEstoque\\gestorestoque\\produtofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3DA14F-7017-4BA4-876F-56E63CBAA5F6}|GestorEstoque\\GestorEstoque.csproj|solutionrelative:gestorestoque\\produtofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DA14F-7017-4BA4-876F-56E63CBAA5F6}|GestorEstoque\\GestorEstoque.csproj|E:\\Estudos CSHARP\\Projetos\\GestorEstoque\\GestorEstoque\\gestorestoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3DA14F-7017-4BA4-876F-56E63CBAA5F6}|GestorEstoque\\GestorEstoque.csproj|solutionrelative:gestorestoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DA14F-7017-4BA4-876F-56E63CBAA5F6}|GestorEstoque\\GestorEstoque.csproj|E:\\Estudos CSHARP\\Projetos\\GestorEstoque\\GestorEstoque\\gestorestoque\\iestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3DA14F-7017-4BA4-876F-56E63CBAA5F6}|GestorEstoque\\GestorEstoque.csproj|solutionrelative:gestorestoque\\iestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEstoque.cs",
+              "DocumentMoniker": "E:\\Estudos CSHARP\\Projetos\\GestorEstoque\\GestorEstoque\\GestorEstoque\\IEstoque.cs",
+              "RelativeDocumentMoniker": "GestorEstoque\\IEstoque.cs",
+              "ToolTip": "E:\\Estudos CSHARP\\Projetos\\GestorEstoque\\GestorEstoque\\GestorEstoque\\IEstoque.cs",
+              "RelativeToolTip": "GestorEstoque\\IEstoque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:16:25.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "E:\\Estudos CSHARP\\Projetos\\GestorEstoque\\GestorEstoque\\GestorEstoque\\Curso.cs",
+              "RelativeDocumentMoniker": "GestorEstoque\\Curso.cs",
+              "ToolTip": "E:\\Estudos CSHARP\\Projetos\\GestorEstoque\\GestorEstoque\\GestorEstoque\\Curso.cs",
+              "RelativeToolTip": "GestorEstoque\\Curso.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:58:51.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ebook.cs",
+              "DocumentMoniker": "E:\\Estudos CSHARP\\Projetos\\GestorEstoque\\GestorEstoque\\GestorEstoque\\Ebook.cs",
+              "RelativeDocumentMoniker": "GestorEstoque\\Ebook.cs",
+              "ToolTip": "E:\\Estudos CSHARP\\Projetos\\GestorEstoque\\GestorEstoque\\GestorEstoque\\Ebook.cs",
+              "RelativeToolTip": "GestorEstoque\\Ebook.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:56:13.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoFisico.cs",
+              "DocumentMoniker": "E:\\Estudos CSHARP\\Projetos\\GestorEstoque\\GestorEstoque\\GestorEstoque\\ProdutoFisico.cs",
+              "RelativeDocumentMoniker": "GestorEstoque\\ProdutoFisico.cs",
+              "ToolTip": "E:\\Estudos CSHARP\\Projetos\\GestorEstoque\\GestorEstoque\\GestorEstoque\\ProdutoFisico.cs",
+              "RelativeToolTip": "GestorEstoque\\ProdutoFisico.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:52:52.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "E:\\Estudos CSHARP\\Projetos\\GestorEstoque\\GestorEstoque\\GestorEstoque\\Produto.cs",
+              "RelativeDocumentMoniker": "GestorEstoque\\Produto.cs",
+              "ToolTip": "E:\\Estudos CSHARP\\Projetos\\GestorEstoque\\GestorEstoque\\GestorEstoque\\Produto.cs",
+              "RelativeToolTip": "GestorEstoque\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:51:35.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Estudos CSHARP\\Projetos\\GestorEstoque\\GestorEstoque\\GestorEstoque\\Program.cs",
+              "RelativeDocumentMoniker": "GestorEstoque\\Program.cs",
+              "ToolTip": "E:\\Estudos CSHARP\\Projetos\\GestorEstoque\\GestorEstoque\\GestorEstoque\\Program.cs",
+              "RelativeToolTip": "GestorEstoque\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:33:49.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
