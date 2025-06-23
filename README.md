@@ -1,6 +1,6 @@
 # Gestor de Estoque  
 
-## Sobre o Projeto  
+## Sobre o Projeto Gestor de Estoque
 O **Gestor de Estoque** é um sistema simples e funcional desenvolvido em C# com foco no gerenciamento eficiente de produtos em estoque. Durante o desenvolvimento, foram aplicados conceitos de lógica de programação e Programação Orientada a Objetos (POO).  
 
 O sistema permite:  
